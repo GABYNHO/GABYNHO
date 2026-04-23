@@ -1,6 +1,6 @@
 # 👋 Hello there !
 
-🇫🇷 I'm a French cybersecurity engineer. I enjoy building things, help people and building things that genuinely help people.
+🇫🇷 French cybersecurity engineer. I enjoy building things, help people and building things that genuinely help people.
 📨 You can find all my links and contact info [here](https://lnk.bio/GabyGabz)
 
 ## 🚀 My Journey
