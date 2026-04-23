@@ -18,7 +18,7 @@
 
 ## 🚩 CTFs
 
-- **Mar 2026** - **23rd / 680** - Bsides CTF - Team 🇺🇸  
+- **Mar 2026** - **23rd / 680** - BSideSF CTF - Team 🇺🇸  
 - **Apr 2025** - **2nd / 47** - Mars@Hack - Team 🇫🇷  
 - **Dec 2024** - **6th / 337** - 4T$ CTF - Team 🇨🇭  
 - **Oct 2024** - **112th / 260** - StarHack CTF - Individual 🇫🇷  
