@@ -13,8 +13,8 @@
 
 ## 👨‍💻 Platforms
 
-- 💀 **Root-Me**: [GabyGabz](https://www.root-me.org/GabyGabz) — 1285 pts — Rank #11714  
-- 🎩 **CyberDefenders**: [GABYNHO](https://cyberdefenders.org/p/GABYNHO/) — 26 labs — Rank #??  
+- 💀 **Root-Me**: [GabyGabz](https://www.root-me.org/GabyGabz) - 1285 pts - Rank #11714  
+- 🎩 **CyberDefenders**: [GABYNHO](https://cyberdefenders.org/p/GABYNHO/) - 26 labs - Rank #??  
 
 ## 🚩 CTFs
 
@@ -27,4 +27,4 @@
 
 - 🔐 [**Pauthenticator**](https://github.com/Artutu64/Pauthenticator) - Open-source Android 2FA app using the TOTP algorithm  
 - ⛰️ [**PyrCTF**](https://github.com/pyr-ctf/PyrCTF-2025) - Organized and set up a yearly local CTF competition for students  
-- 🌐 **HomeLab** — Coming soon 👀  
+- 🌐 **HomeLab** - Coming soon 👀  
