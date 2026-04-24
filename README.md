@@ -27,5 +27,5 @@
 ## 🖥️ My Projects
 
 - 🔐 [**Pauthenticator**](https://github.com/Artutu64/Pauthenticator) - Open-source Android 2FA app using the TOTP algorithm  
-- ⛰️ [**PyrCTF**](https://github.com/pyr-ctf/PyrCTF-2025) - Organized and set up a yearly local CTF competition for students  
+- ⛰️ [**PYR-CTF**](https://github.com/pyr-ctf/PyrCTF-2025) - Organized and set up a yearly local CTF competition for students  
 - 🌐 **HomeLab** - Coming soon 👀  
