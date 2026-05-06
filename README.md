@@ -1,4 +1,4 @@
-# 👋 Hello there !
+# Hello there !
 
 🇫🇷 French cybersecurity engineer. I enjoy building things, help people and building things that genuinely help people.
 
@@ -23,6 +23,7 @@
 - **Apr 2025** - **2nd / 47** - Mars@Hack - Team 🇫🇷  
 - **Dec 2024** - **6th / 337** - 4T$ CTF - Team 🇨🇭  
 - **Oct 2024** - **112th / 260** - StarHack CTF - Individual 🇫🇷  
+- Coming soon : 404 CTF && CTE - L'enfer numérique
 
 ## 🖥️ My Projects
 
