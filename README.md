@@ -19,12 +19,12 @@
 
 ## 🚩 CTFs
 
+- Coming soon : CTE - L'enfer numérique
 - **May 2026** - **ongoing 282th/1712** - 404 CTF - Individual 🇫🇷 
 - **Mar 2026** - **23rd / 680** - BSidesSF CTF - Team 🇺🇸  
 - **Apr 2025** - **2nd / 47** - Mars@Hack - Team 🇫🇷  
 - **Dec 2024** - **6th / 337** - 4T$ CTF - Team 🇨🇭  
 - **Oct 2024** - **112th / 260** - StarHack CTF - Individual 🇫🇷  
-- Coming soon : CTE - L'enfer numérique
 
 ## 🖥️ My Projects
 
