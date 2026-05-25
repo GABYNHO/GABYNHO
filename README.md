@@ -15,7 +15,7 @@
 ## 👨‍💻 Platforms
 
 - 💀 **Root-Me**: [GabyGabz](https://www.root-me.org/GabyGabz) - 1900 pts - Rank #7177
-- 🎩 **CyberDefenders**: [GabyGabz](https://cyberdefenders.org/p/GabyGabz/) - 32 labs - Rank #186🇫🇷  
+- 🎩 **CyberDefenders**: [GabyGabz](https://cyberdefenders.org/p/GabyGabz/) - 33 labs - Rank #69🇫🇷  
 
 ## 🚩 CTFs
 
