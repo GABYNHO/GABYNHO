@@ -10,12 +10,13 @@
 - 3-month internship as a Full-Stack Developer at [Alpha Langues](https://www.alphalangues.fr/) - Pau 🇫🇷  
 - 4-month internship as a Back-End Developer & Database Administrator at [My Sherpa](https://www.mysherpa.be/en/) - Brussels 🇧🇪  
 - 6-month internship as an Assistant CISO at [Teréga](https://www.terega.fr/) - Pau 🇫🇷  
-- 4-month European Solidarity Corps mission supporting refugees at [CCR](https://ccr.md/) - Chișinău 🇲🇩  
+- 3-month European Solidarity Corps mission supporting refugees at [CCR](https://ccr.md/) - Chișinău 🇲🇩  
+- August 2026 - Today Cybersecurity Engineer at [Tisséo Voyageurs](https://www.tisseo.fr/) - Toulouse 🇫🇷
 
 ## 👨‍💻 Platforms
 
-- 💀 **Root-Me**: [GabyGabz](https://www.root-me.org/GabyGabz) - 2015 pts - Rank #6603
-- 🎩 **CyberDefenders**: [GabyGabz](https://cyberdefenders.org/p/GabyGabz/) - 33 labs - Rank #973  
+- 💀 **Root-Me**: [GabyGabz](https://www.root-me.org/GabyGabz) - 2015 pts - Top Rank #6603
+- 🎩 **CyberDefenders**: [GabyGabz](https://cyberdefenders.org/p/GabyGabz/) - 33 labs - Top Rank #973  
 
 ## 🚩 CTFs
 
